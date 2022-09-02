@@ -63,7 +63,7 @@ case 4:
     printf("\n\nTotal %d \n",sum);
     printf("\n Thanks \n");
     printf("public-privet project\n");
-    printf("\nPower by Hasibul Software company\n\n\n\n");
+    printf("\nPower by Him's Software company\n\n\n\n");
 
 }
 
